@@ -1,0 +1,30 @@
+{
+  "predictions": [
+    {
+      "x": 428.0,
+      "y": 294.5,
+      "width": 280.0,
+      "height": 395.0,
+      "confidence": 0.9443135261535645,
+      "class": "plant",
+      "class_id": 0,
+      "image_path": "50.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 86.0,
+      "y": 450.5,
+      "width": 26.0,
+      "height": 137.0,
+      "confidence": 0.8782252073287964,
+      "class": "ref_obj",
+      "class_id": 1,
+      "image_path": "50.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    }
+  ],
+  "image": {
+    "width": "800",
+    "height": "800"
+  }
+}
